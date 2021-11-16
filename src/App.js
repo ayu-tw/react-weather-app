@@ -63,6 +63,21 @@ export default function App() {
           </div>
         </div>
       </div>
+      <footer>
+        <small>
+          <a
+            href="https://github.com/ayu-tw/react-weather-app/tree/main/src"
+            target="_blank"
+          >
+            Open-source code
+          </a>{" "}
+          by{" "}
+          <a href="https://loving-mcnulty-cc94fa.netlify.app/" target="_blank">
+            Anyu Huang
+          </a>
+          👩🏻
+        </small>
+      </footer>
     </div>
   );
 }
