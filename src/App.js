@@ -70,8 +70,8 @@ export default function App() {
             target="_blank"
           >
             Open-source code
-          </a>{" "}
-          by{" "}
+          </a>
+          by
           <a href="https://loving-mcnulty-cc94fa.netlify.app/" target="_blank">
             Anyu Huang
           </a>
